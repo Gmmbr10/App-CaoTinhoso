@@ -1,4 +1,4 @@
-# Cão Tinhoso
+# App Cão Tinhoso
 
 Este app tem a intenção de auxiliar estudantes que queirão saber mais sobre o livro **O cão tinhoso**.
 Nele você verá as principais informações do livro.
